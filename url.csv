@@ -1,0 +1,21 @@
+﻿URL,"Http Method",Count,"1st percentile of Response Time","25th percentile of Response Time","50th percentile of Response Time","90th percentile of Response Time","99th percentile of Response Time","100th percentile of Response Time"
+"/v4/identity/app-user-profile",POST,45445,7,10,15,20,30,460
+"/v1/mobile/get-client-configs",GET,52,3,5,5539,"42556.80000000002","83894.69999999998",84019
+"/v3/sso/mobile/auth",POST,50,367,379,"482.5","921.5",978,978
+"/v1/mobile/search",GET,46,6,234,272,"79927.59999999999",119617,119617
+"/v4/configurator/loyalty/ProfileInformation",POST,38,60,68,"71.5","342.5",874,874
+"/v3/sso/sa/login",POST,32,365,376,380,"676.5",815,815
+"/v1/mobile/getPersonalizedContent",POST,17,6,"2055.5",15870,"30293.2",97845,97845
+"/v4/configurator/loyalty/SearchCustInfo",POST,16,60,"65.5",72,"170.9",278,278
+"/v4/configurator/loyalty/Enrollment",POST,14,82,90,99,"633.1",661,661
+"/v4/configurator/serviceability",GET,14,259,269,"504.5","1167.8",1175,1175
+"/v1/redemption/activation-details",POST,12,79,"87.5","99.5","227.3",235,235
+"/v4/configurator/loyalty/Dashboard",POST,12,63,"68.5","83.5","369.30000000000007",398,398
+"/v1/mobile/getSearchFrequency",GET,10,"6.000000000000001",11,"8590.5","111257.5",112574,112574
+"/v4/catalog/serviceability",POST,7,231,"239.75",484,"1100.6",1150,1150
+"/v1/_exchange",PUT,5,"42.00000000000001","46.5",49,142,142,142
+"/v4/configurator/loyalty/MobileEmailValidation",POST,4,92,"92.5","94.5",96,96,96
+"/v4/configurator/loyalty/PointHistory",POST,4,65,68,"110.5",172,172,172
+"/v4/configurator/loyalty/PurchaseHistory",POST,4,60,65,"126.5",471,471,471
+"/v4/shopping-carts/retrieve-address",POST,4,355,"359.5","625.5",892,892,892
+"/v1/exchange/offers",POST,2,202,202,207,212,212,212
